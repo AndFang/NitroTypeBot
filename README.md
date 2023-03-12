@@ -39,7 +39,7 @@ python nitrotypebot.py
 - The bot may stop after a set amount of races. If this happens, click stop and redo the steps above. Future versions will improve the fluidity of the bot.
 - The bot also occasionally makes mistakes to counter bot checkers. Future versions will allows you to change how often mistakes are made.
 ## Acknowledgements
-- Abhi who suggested bringing this into the context of Nitro Type.
+- Abhiram who suggested bringing this into the context of Nitro Type.
 - Tyler who introduced Nitro Type and asked to play these typing games. Check out his own typing bot at [repo](https://github.com/tylernh10)!
 
 ## Future Plans
