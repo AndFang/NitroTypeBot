@@ -6,6 +6,39 @@ What started as some Friday shenanigans quickly turn into some friendly competit
 
 ## How to Use
 
+### Getting Started
+- Clone the repository or just copy 'nitrotypebot.py' and install the necessary packages by running the following command in your terminal:
+```
+pip install -r requirements.txt
+```
+- Future versions will include a singular executable file that can be run on any computer.
+### GUI
+- Run the script by running the following command in your terminal:
+```
+python nitrotypebot.py
+```
+- The GUI should pop up. If it doesn't, make sure you have tkinter installed.
+![GUI of application](/gui.jpg)
+- Enter your username and password for Nitro Type.
+    - If both fields are left blank, the bot will play nitro type as a guest.
+- Select if you want the bot to automatically go to the next race once the current one is finished.
+- Select the speed at which you want to type.
+    - The default speed is ~100 WPM.
+    - The delays result in the following speeds
+        - 0 = ~200 WPM
+        - 0.01 = ~150 WPM
+        - 0.1 = ~100 WPM
+        - 0.5 = ~50 WPM
+        - 1 = ~15 WPM
+- Click 'Start' to begin the bot.
+- While the bot is running, you can click 'Stop' to stop the bot or you can change the speed of the bot using the slider.
+**The bot may stop after a set amount of races. If this happens, click stop and redo the steps above. Future versions will improve the fluidity of the bot**
+
 ## Acknowledgements
-- Abhi who suggested 
-- Tyler who 
+- Abhi who suggested bringing this into the context of Nitro Type.
+- Tyler who introduced Nitro Type and asked to play these typing games. Check out his own typing bot at [link](https://github.com/tylernh10)!
+
+## Future Plans
+- Create a singular executable file that can be run on any computer.
+- More options for the user to control (e.g. nitro, accuracy, etc.).
+- Improve fluidity of the GUI.
