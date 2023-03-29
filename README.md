@@ -40,7 +40,7 @@ python nitrotypebot.py
 - The bot also occasionally makes mistakes to counter bot checkers. Future versions will allows you to change how often mistakes are made.
 ## Acknowledgements
 - Abhiram who suggested bringing this into the context of Nitro Type.
-- Tyler who introduced Nitro Type and asked to play these typing games. Check out his own typing bot at [repo](https://github.com/tylernh10)!
+- Tyler who introduced Nitro Type and asked to play these typing games. Check out his own typing bot at [repo](https://github.com/tylernh10/nitro-bot)!
 
 ## Future Plans
 - Create a singular executable file that can be run on any computer.
